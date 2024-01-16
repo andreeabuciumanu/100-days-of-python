@@ -1,0 +1,8 @@
+.cache/
+.config/
+.direnv/
+.idea/
+.upm/
+venv/
+__MACOSX
+__pycache__
